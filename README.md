@@ -57,13 +57,6 @@ open_to_opportunities=true
 | 2021 | Back-End Intern: Django + Odoo admin features | Wongnai Media |
 | 2017 – 2021 | B.Eng. Computer Engineering | Naresuan University |
 
-### 🧪 Things I've cooked up
-
-- [**crafting-apps-hub**](https://github.com/Jess4da/crafting-apps-hub): desktop launcher that installs, updates, and runs Craft apps (Wails v3 + Svelte 5)
-- [**wails3-sveltekit-ts**](https://github.com/Jess4da/wails3-sveltekit-ts): desktop app template (Wails v3 + SvelteKit + Tailwind)
-- [**be-our-journey-api-gateway**](https://github.com/Jess4da/be-our-journey-api-gateway): API gateway in Go
-- [**Jess4da.github.io**](https://github.com/Jess4da/Jess4da.github.io): where the OS lives
-
 ### 📮 Ping me
 
 [![Email](https://img.shields.io/badge/Email-jessada.d@icloud.com-0078D4?logo=icloud&logoColor=white)](mailto:jessada.d@icloud.com)
