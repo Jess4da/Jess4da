@@ -21,6 +21,7 @@ open_to_opportunities=true
 ```
 
 🖥️ **Boot the desktop:** [meatchopper.xyz](https://meatchopper.xyz) is a macOS-style OS in your browser, with apps and games
+
 📄 **Prefer docs?** [meatchopper.xyz/portfolio](https://meatchopper.xyz/portfolio)
 
 ### 🔪 What's on the chopping board
